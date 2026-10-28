@@ -1,11 +1,11 @@
 Apple
 Strawberry
+Cherry
 Red Grapes
 Watermelon
 Raspberry
-Carenberry
+Cranberry
 Pomegranate
 Red Dragon Fruit
-Blood orange
-this is test file.
-red fruits are added
+Blood Orange
+
